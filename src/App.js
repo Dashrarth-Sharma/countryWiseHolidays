@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { API, countryName } from './API'
+import { API, countryName } from './APIAndData/API'
 
 const App = () => {
 
